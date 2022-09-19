@@ -1,4 +1,4 @@
-<h1 align="center">Restaurant Search</h1>
+<h1 align="center">Restaurant Search :fork_and_knife: </h1>
 
 ## About The Project :eyes: 
 
